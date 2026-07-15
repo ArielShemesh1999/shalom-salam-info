@@ -6,7 +6,7 @@
 
 ## 🌐 Live Site
 
-### Coming soon — Vercel deployment in progress
+Not yet deployed.
 
 ---
 
